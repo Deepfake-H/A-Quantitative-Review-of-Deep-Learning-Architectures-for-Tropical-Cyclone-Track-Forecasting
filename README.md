@@ -23,7 +23,7 @@ Supports both **MAE** and **RMSE** input modes.
 
 | Platform | Format | Download         |
 |----------|--------|------------------|
-| macOS    | .app   | ugde_gui.zip     | 
+| macOS    | .app   | ugde_gui_mac.zip | 
 | Ubuntu   |  N/A   | [Coming soon](#) |
 | Windows  | .exe   | [Coming soon](#) |
 
