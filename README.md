@@ -11,7 +11,7 @@ Supports both **MAE** and **RMSE** input modes.
 
 ## Features
 
-- Cross-platform GUI (macOS `.app` / Windows `.exe`/ Ubuntu)
+- Cross-platform GUI (macOS `.app` / Windows `.exe`/ Linux)
 - Supports MAE and RMSE modes
 - Real-time distance calculation in kilometers
 - Clean and simple user interface
@@ -24,7 +24,7 @@ Supports both **MAE** and **RMSE** input modes.
 | Platform | Format |     Download        |
 |----------|--------|---------------------|
 | macOS    | .app   | ugde_gui_mac.zip    | 
-| Ubuntu   |  N/A   | ugde_gui_ubuntu.zip |
+| Linux    |  N/A   | ugde_gui_Linux.zip  |
 | Windows  | .exe   | [Coming soon](#)    |
 
 > You can also clone the source code and build the executable using Python + PyInstaller.
@@ -37,7 +37,7 @@ Supports both **MAE** and **RMSE** input modes.
 
 - **macOS**: Double-click `ugde_gui.app` (may require right-click > Open on first launch)
 - **Windows**: Double-click `ugde_gui.exe` (click “More info” > “Run anyway” if SmartScreen appears)
-- **Ubuntu**: chmod +x dist/ugde_gui and then Double-click `ugde_gui` 
+- **Linux**: chmod +x dist/ugde_gui and then Double-click `ugde_gui` 
 
 ### 2. Enter the following values:
 
