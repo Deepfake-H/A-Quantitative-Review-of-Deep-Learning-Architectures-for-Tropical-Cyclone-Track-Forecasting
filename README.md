@@ -21,11 +21,11 @@ Supports both **MAE** and **RMSE** input modes.
 
 ## Downloads
 
-| Platform | Format | Download         |
-|----------|--------|------------------|
-| macOS    | .app   | ugde_gui_mac.zip | 
-| Ubuntu   |  N/A   | [Coming soon](#) |
-| Windows  | .exe   | [Coming soon](#) |
+| Platform | Format |     Download        |
+|----------|--------|---------------------|
+| macOS    | .app   | ugde_gui_mac.zip    | 
+| Ubuntu   |  N/A   | ugde_gui_ubuntu.zip |
+| Windows  | .exe   | [Coming soon](#)    |
 
 > You can also clone the source code and build the executable using Python + PyInstaller.
 
