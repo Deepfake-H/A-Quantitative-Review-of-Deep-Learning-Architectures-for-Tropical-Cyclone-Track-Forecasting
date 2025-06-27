@@ -37,7 +37,7 @@ Supports both **MAE** and **RMSE** input modes.
 
 - **macOS**: Double-click `ugde_gui.app` (may require right-click > Open on first launch)
 - **Windows**: Double-click `ugde_gui.exe` (click “More info” > “Run anyway” if SmartScreen appears)
-- **Linux**: chmod +x dist/ugde_gui_linux and then Double-click `ugde_gui` 
+- **Linux**: Linux: chmod +x dist/ugde_gui_linux && ./dist/ugde_gui_linux 
 
 ### 2. Enter the following values:
 
