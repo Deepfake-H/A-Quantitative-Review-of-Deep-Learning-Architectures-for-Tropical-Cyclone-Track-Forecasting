@@ -25,7 +25,7 @@ Supports both **MAE** and **RMSE** input modes.
 |----------|--------|---------------------|
 | macOS    | .app   | ugde_gui_mac.zip    | 
 | Linux    |  N/A   | ugde_gui_Linux.zip  |
-| Windows  | .exe   | [Coming soon](#)    |
+| Windows  | .exe   | ugde_gui_windows.zip|
 
 > You can also clone the source code and build the executable using Python + PyInstaller.
 
