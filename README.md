@@ -59,3 +59,6 @@ Input:
 - Reference Latitude: `15.0`
 
 Output:
+
+
+## If you need to use code or tool, please cite the paper "Beyond the Backbone: A Quantitative Review of Deep-Learning Architectures for Tropical Cyclone Track Forecasting".
